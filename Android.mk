@@ -20,7 +20,7 @@ $(call add-radio-file-sha1-checked,radio/modem.img,07ac2239fd7e8dfbe82c249dc772f
 $(call add-radio-file-sha1-checked,radio/multiimgoem.img,f30010b7ef292878181328eb6de18d879d73b350)
 $(call add-radio-file-sha1-checked,radio/qupfw.img,26c265073fc4a933085c9447b1e42693eaa72720)
 $(call add-radio-file-sha1-checked,radio/shrm.img,0fb350b206c655f4bd8d218b94e6dc0ee5dcad2c)
-$(call add-radio-file-sha1-checked,radio/tz.img,6af9fa49acb9e674e5a00583488d17f9654da686)
+$(call add-radio-file-sha1-checked,radio/tz.img,ff5c5233f0b5de305c8a9823763b4d6c534ea944)
 $(call add-radio-file-sha1-checked,radio/uefisecapp.img,b9bb9b663e753b5fa87d69da1d02fa5cc367df0f)
 $(call add-radio-file-sha1-checked,radio/xbl.img,cc7d8c1f7c61f7a9d4667a0a6548d1f88639c54a)
 $(call add-radio-file-sha1-checked,radio/xbl_config.img,520bcc5105b3a0006d4f988e7cd079f1fd949390)
